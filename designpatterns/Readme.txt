@@ -1,0 +1,1 @@
+This project only focus on design patterns in java .
